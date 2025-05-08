@@ -1,4 +1,4 @@
-# Slonik p-test problem reproduction
+# Slonik p-limit problem reproduction
 
 Just run:
 
